@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-mirror-jacobgoren-sb-workato-mcp-server-badge.png)](https://mseep.ai/app/mcp-mirror-jacobgoren-sb-workato-mcp-server)
+
 🤖 Workato MCP Server
 Welcome to your Workato API integration toolkit, designed as a Model Context Protocol (MCP) server for Cursor or Claude! This project provides seamless interaction with Workato's API through custom AI tools.
 
